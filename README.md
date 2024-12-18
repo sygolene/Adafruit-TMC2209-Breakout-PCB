@@ -1,12 +1,12 @@
 ## Adafruit TMC2209 Stepper Motor Driver Breakout Board PCB
 
-<a href="http://www.adafruit.com/products/6120"><img src="assets/6120.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/6121"><img src="assets/6120.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit TMC2209 Stepper Motor Driver Breakout Board. 
 
 Format is EagleCAD schematic and board layout
-* https://www.adafruit.com/product/6120
+* https://www.adafruit.com/product/6121
 
 ### Description
 
